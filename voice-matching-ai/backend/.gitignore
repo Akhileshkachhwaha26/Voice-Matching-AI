@@ -1,0 +1,6 @@
+data/voices.json
+data/pretrained_models/
+__pycache__/
+*.pyc
+.venv/
+venv/

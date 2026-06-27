@@ -1,0 +1,13 @@
+# backend
+backend/data/voices.json
+backend/data/pretrained_models/
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+*.pyc
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+.DS_Store
